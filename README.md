@@ -23,5 +23,26 @@ My Linux learning journey.
 - mv
 - rm
 - chmod
+## Useful Commands
+
+pwd
+ls -la
+cd
+mkdir
+touch
+cp
+mv
+rm
+cat
+grep
+chmod
+ps
+top
+df -h
+free -m
+ip a
+
+
+
 - ps
 - top
